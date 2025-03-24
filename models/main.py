@@ -2,7 +2,7 @@ import time
 import random
 
 import chess as ch
-import ChessEngine as engine
+import engine as engine
 
 import chess.svg
 def save_board_state(board, filename='chess_board.svg'):
